@@ -9,7 +9,7 @@
   <h2> Data Structures and Algorithms with C++ - G1 </h2>
 </div>
 
-Welcome to the SURE Trust G1 Data Structures and Algorithms with C++ Training repository for Mechanical Engineers. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
+Welcome to the SURE Trust G1 Data Structures and Algorithms with C++ Training repository. This repository serves as a central hub for all materials and resources related to the training course during the second batch of training AutoCad & Solidworks course.
 
 ## About SURE Trust
 
@@ -21,7 +21,7 @@ To enroll in the Data Structures and Algorithms with C++, please visit the offic
 
 ## Repository Description
 
-This repository is designed to support the G1 Data Structures and Algorithms with C++ training program for Mechanical Engineers at SURE Trust. It follows the below mentioned organization structure:
+This repository is designed to support the G1 Data Structures and Algorithms with C++ training program at SURE Trust. It follows the below mentioned organization structure:
 
 - **Notes**: An archive of  notes and course materials provided by our trainer - Lijo Joseph.
 - **Mini Projects**: A repository holding code files of the mini projects undertaken during the course.
