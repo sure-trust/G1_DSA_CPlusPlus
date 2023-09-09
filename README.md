@@ -19,6 +19,15 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Data Structures and Algorithms with C++, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/132)
 
+|Students Name|Link|
+|-------------|----|
+|Bhagyasri|[click here](link)|
+|Dharani|[click here](link)|
+|Jaswanthi|[click here](link)|
+|Nikhitha|[click here](link)|
+|Raghavi|[click here](link)|
+|Vennela|[click here](link)|
+
 ## Repository Description
 
 This repository is designed to support the G1 Data Structures and Algorithms with C++ training program at SURE Trust. It follows the below mentioned organization structure:
