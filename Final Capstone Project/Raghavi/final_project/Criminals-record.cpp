@@ -134,7 +134,7 @@ void addrecord::mainmenu()
                 system("cls");
                 cout<<"\t_____________________________________________________"<<endl;
                 cout<<"\n\tTHANKYOU FOR USING THIS SOFTWARE"<<endl;
-                cout<<"\n  \t                                 Developed by Nasim"<<endl;
+                cout<<"\n  \t                                 Developed by Raghavi"<<endl;
                 cout<<"\n\t_____________________________________________________\n\n\n"<<endl;
                 logo();
                 _getch();
