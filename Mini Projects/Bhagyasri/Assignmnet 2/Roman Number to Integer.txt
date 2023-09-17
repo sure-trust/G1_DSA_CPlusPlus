@@ -1,0 +1,60 @@
+//{ Driver Code Starts
+// Initial template for C++
+
+#include <bits/stdc++.h>
+using namespace std;
+
+
+// } Driver Code Ends
+//User function template for C++
+
+class Solution {
+public:
+    int romanToDecimal(string &str) {
+        int n = str.size(), ans = 0;
+        for (int i = 0; i < n; i++) {
+            int s1 = Val(str[i]);
+            if (i + 1 < n) {
+                int s2 = Val(str[i + 1]);
+                if (s1 >= s2) {
+                    ans += s1;
+                } else {
+                    ans += (s2 - s1);
+                    i++;
+                }
+            } else {
+                ans += s1;
+            }
+        }
+        return ans;
+    }
+
+private:
+    int Val(char roman) {
+        switch (roman) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+            default: return 0; // Handle invalid characters
+        }
+    }
+};
+
+
+//{ Driver Code Starts.
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        string s;
+        cin >> s;
+        Solution ob;
+        cout << ob.romanToDecimal(s) << endl;
+    }
+}
+// } Driver Code Ends
