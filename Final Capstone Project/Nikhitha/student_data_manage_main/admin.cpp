@@ -1,9 +1,8 @@
 #include "admin.h"
 
-/*
- *Admin::add_data() function adds student records in the data file. It creates a temp vector of strings to store input datas initially,
- * then it writes the datas into the data file as well as inserts the data into the map data structure that is being used for accessing records in runtime, if needed. 
- */
+
+ //Admin::add_data() function adds student records in the data file.
+ 
 void Admin::add_data()
 {
 	ofstream out("sdm_dat.csv", ios_base::app);	//Opening data file in append mode.
@@ -73,8 +72,7 @@ void Admin::add_data()
 
 /*
  * Admin::delete_data() function deletes any student's records by searching student_id,
- * informs user if records of specified student id is not found. If student id found in records, it removes the records of the student from 
- * the records, calls the function write_dat() to write modified datas into file, implementation can be found further below.
+ * informs user if records of specified student id is not found. 
  */ 
 void Admin::delete_data()
 {
@@ -105,8 +103,6 @@ void Admin::delete_data()
 
 /*
  * Admin::update_data() function modifies and updates records by searching Id, informs if no such id found. 
- * If found, provides multiple options to update records. User can perform multiple modifications of records,
- * as well as option to revert back to original state is also given so that wrong updation can be avoided.
  */
 void Admin::update_data()
 {
@@ -353,8 +349,7 @@ void Admin::search()
 }
 
 /*
- * Admin::print() function receives vector of strings as parameter and prints the data. It is called from other functions like Admin::view_data() for printing records.
- * It arranges each data records by caculating spaces required to place the fields in a professional manner.
+ * Admin::print() function receives vector of strings as parameter and prints the data. 
  */
 void Admin::print(vector<string> &line)
 {
@@ -370,8 +365,7 @@ void Admin::print(vector<string> &line)
 }
 
 /*
- * Admin::split() function receives string as parameter and returns a vector of strings by splitting the received string. Though there are functions for 
- * splitting available in cpp, this function is implemented for learning and interest.
+ * Admin::split() function receives string as parameter and returns a vector of strings by splitting the received string. 
  */
 vector<string> Admin::split(string str)
 {
@@ -490,8 +484,7 @@ Admin::Admin()
 //}
 
 /*
- * Admin::adds() function receives two integer parameters, no. of tabs and new lines. This is convenience as anyone can pass values as per their requirements for
- * acceptable decent looking interface.
+ * Admin::adds() function receives two integer parameters, no. of tabs and new lines. 
  */
 void Admin::adds(int t, int n)
 {
