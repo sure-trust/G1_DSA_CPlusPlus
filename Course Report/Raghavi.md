@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [5 assigments based on Data structures and algorithms in c++ problems]     |[click here] (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Raghavi)                         |
-| Final Project: [This project is based on Police FIR management system.This project includes all the basic functionalities.]     | [click here] (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Raghavi/final_project)                        |
+| Mini Projects: [5 assigments based on Data structures and algorithms in c++ problems]     |[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Raghavi)                         |
+| Final Project: [This project is based on Police FIR management system.This project includes all the basic functionalities.]     | [click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Raghavi/final_project)                        |
