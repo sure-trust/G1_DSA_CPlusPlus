@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2> Data Structures & Algorithms in C++ </h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: [Your Qualifications]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Data Structures & Algorithms in C++! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,6 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
-
+| Mini Projects: [5 assignments on c++ programming]     | [click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Nikhitha)|
+| Final Project: [A simple console program to manage student's official data(with c++)]     | [click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Nikhitha/student_data_manage_main) |
