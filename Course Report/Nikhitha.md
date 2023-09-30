@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: Nikhitha KOlla
 
-## Qualifications: [Your Qualifications]
+## Qualifications: B.Tech third year
 
 Welcome to the course report for the Data Structures & Algorithms in C++! This README document provides an overview of the course, its mini projects and final project.
 
