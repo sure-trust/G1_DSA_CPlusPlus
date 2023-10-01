@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Assignments]     | [Click here] (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Bhagyasri)                  |
-| Final Project: [Attendance Management System]     | [Click here]    (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Bhagyasri)                    |
+| Mini Projects: [Assignments]     | [Click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Bhagyasri)                  |
+| Final Project: [Attendance Management System]     | [Click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Bhagyasri)                    |
