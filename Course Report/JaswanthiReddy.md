@@ -15,7 +15,7 @@
 
 ## Qualifications: ENGINEERING THIRD YEAR
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Data Strructures & Algorithms in C++ ! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Assignments]     | [click] (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Jaswanthi)                        |
-| Final Project: [Attendence Management System]     | [click here] (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Jaswanthi/final%20project)                        |
+| Mini Projects: [Assignments]     | (click here) (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Jaswanthi)                        |
+| Final Project: [Attendence Management System]     | (click here) (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Jaswanthi/final%20project)                        |
