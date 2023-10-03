@@ -15,7 +15,7 @@
 
 ## Qualifications: ENGINEERING THIRD YEAR
 
-Welcome to the course report for the Data Strructures & Algorithms in C++ ! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Data Structures & Algorithms in C++ ! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
