@@ -21,12 +21,12 @@ To enroll in the Data Structures and Algorithms with C++, please visit the offic
 
 |Students Name|Link|
 |-------------|----|
-|Bhagyasri|[click here](link)|
-|Dharani|[click here](link)|
-|Jaswanthi|[click here](link)|
-|Nikhitha|[click here](link)|
-|Raghavi|[click here](link)|
-|Vennela|[click here](link)|
+|Bhagyasri|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/Bhagyasri.md.md)|
+|Dharani|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/Dharani.md)|
+|Jaswanthi|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/JaswanthiReddy.md)|
+|Nikhitha|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/Nikhitha.md)|
+|Raghavi|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/Raghavi.md)|
+|Vennela|[click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/blob/main/Course%20Report/Vennela.md)|
 
 ## Repository Description
 
