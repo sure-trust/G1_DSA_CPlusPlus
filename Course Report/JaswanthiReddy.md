@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Data Strructures & Algorithms in C++ </h2>
+  <h2> Data Structures & Algorithms in C++ </h2>
 </div>
 
 # Course Report
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Assignments]     | (click here) (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Jaswanthi)                        |
-| Final Project: [Attendence Management System]     | (click here) (https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Jaswanthi/final%20project)                        |
+| Mini Projects: [Assignments]     | [click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Mini%20Projects/Jaswanthi)                        |
+| Final Project: [Attendence Management System]     | [click here](https://github.com/sure-trust/G1_DSA_CPlusPlus/tree/main/Final%20Capstone%20Project/Jaswanthi/final%20project)                        |
