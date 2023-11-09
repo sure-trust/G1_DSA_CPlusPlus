@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Data Structures and Algorithms with C++ Course Registration
 
-To enroll in the Data Structures and Algorithms with C++, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/132)
+To enroll in the Data Structures and Algorithms with C++, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 |Students Name|Link|
 |-------------|----|
